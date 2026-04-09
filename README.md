@@ -126,9 +126,8 @@ Key calculated columns and measures:
 ---
 
 ## 📷 Dashboard Preview
-
-![Dashboard](Images/Homepage 1.png)
-
+### Homepage Dashboard
+![Homepage Dashboard](images/Homepage 1.png)
 ---
 
 ## 🚀 How to Use
