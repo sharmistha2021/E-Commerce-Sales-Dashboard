@@ -127,7 +127,7 @@ Key calculated columns and measures:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here)*
+![Dashboard](Screenshots/Homepage 1.png)
 
 ---
 
