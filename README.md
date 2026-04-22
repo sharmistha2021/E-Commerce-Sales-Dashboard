@@ -131,9 +131,15 @@ Key calculated columns and measures:
 
 ![Homepage2 Dashboard](Images/Homepage2.png)
 
+### Executive page Dashboard
+
 ![Executive Page Dashboard](Images/executive.png)
 
+### Regional page Dashboard
+
 ![Regional Page Dashboard](Images/regional.png)
+
+### Sales page Dashboard
 
 ![Sales Page Dashboard](Images/Sales.png)
 
